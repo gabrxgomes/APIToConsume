@@ -1,0 +1,9 @@
+Setor: Setor do Trabalho
+  - CÛdigo: C√≥digo do Trabalho, TÌtulo: T√≠tulo do Trabalho, Sal·rio: Sal√°rio do Trabalho, Criado em: 2023-10-01T12:00:00
+
+Setor: Engenharia
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software, Sal·rio: 8000, Criado em: 2024-08-10T16:29:34.333649
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software 2, Sal·rio: 8000, Criado em: 2024-08-10T16:30:25.458016
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software 3, Sal·rio: 8000, Criado em: 2024-08-10T16:31:27.223815
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software 4, Sal·rio: 8000, Criado em: 2024-08-10T16:39:41.932899
+

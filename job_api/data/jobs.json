@@ -1,0 +1,47 @@
+[
+    {
+        "id": "job_id_value",
+        "created_at": "2023-10-01T12:00:00",
+        "title": "T\u00c3\u00adtulo do Trabalho",
+        "code": "C\u00c3\u00b3digo do Trabalho",
+        "description": "Descri\u00c3\u00a7\u00c3\u00a3o do Trabalho",
+        "salary": "Sal\u00c3\u00a1rio do Trabalho",
+        "sector": "Setor do Trabalho"
+    },
+    {
+        "id": "6ff7e642-46e0-4e2b-9394-341017f4738a",
+        "created_at": "2024-08-10T16:29:34.333649",
+        "title": "Engenheiro de Software",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    },
+    {
+        "id": "8ee9070a-bd6e-4f9f-8e91-8531157e92cd",
+        "created_at": "2024-08-10T16:30:25.458016",
+        "title": "Engenheiro de Software 2",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    },
+    {
+        "id": "411379a8-dcc1-41fb-8058-71ed5f893bbc",
+        "created_at": "2024-08-10T16:31:27.223815",
+        "title": "Engenheiro de Software 3",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    },
+    {
+        "id": "9cf799d8-4f04-4e60-841c-44379f066139",
+        "created_at": "2024-08-10T16:39:41.932899",
+        "title": "Engenheiro de Software 4",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    }
+]
