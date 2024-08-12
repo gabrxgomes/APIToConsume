@@ -28,5 +28,5 @@ with open('report/sector_report.txt', 'w') as f:
     for sector, jobs in report.items():
         f.write(f"Setor: {sector}\n")
         for job in jobs:
-            f.write(f"  - Código: {job['code']}, Título: {job['title']}, Salário: {job['salary']}, Criado em: {job['created_at']}\n")
+            f.write(f"  - Código: {job['code']}, Título: {job['title']}, Salário: {job['salary']}, Matrícula: {job['registration']}, Criado em: {job['created_at']}\n")
         f.write("\n")
