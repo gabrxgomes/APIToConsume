@@ -29,4 +29,5 @@ with open('report/sector_report.txt', 'w') as f:
         f.write(f"Setor: {sector}\n")
         for job in jobs:
             f.write(f"  - Código: {job['code']}, Título: {job['title']}, Salário: {job['salary']}, Matrícula: {job['registration']}, Criado em: {job['created_at']}\n")
+            # Esse código possui um erro de chave, pois na api não foi colocado um campo personalizado para receber campos costumizáveis.
         f.write("\n")
